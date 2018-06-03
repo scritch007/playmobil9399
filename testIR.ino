@@ -7,6 +7,7 @@
  */
 
 #include <IRremote.h>
+#include "playmobil9399.h"
 
 int RECV_PIN = 11;
 
